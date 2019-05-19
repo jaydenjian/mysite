@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![avatar](avatar.jpg)
+![Myphoto](MyPhoto.jpg)
 
 # 測試
 
